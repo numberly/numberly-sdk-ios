@@ -1,0 +1,61 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Core/Configuration.swift",
+      "line": 95,
+      "symbol": "Configuration.copy(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Push/PushAuthorizationOption.swift",
+      "line": 23,
+      "symbol": "PushAuthorizationOption.alert",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Push/PushAuthorizationOption.swift",
+      "line": 23,
+      "symbol": "PushAuthorizationOption.badge",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Push/PushAuthorizationOption.swift",
+      "line": 23,
+      "symbol": "PushAuthorizationOption.carPlay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Push/PushAuthorizationOption.swift",
+      "line": 23,
+      "symbol": "PushAuthorizationOption.criticalAlert",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Push/PushAuthorizationOption.swift",
+      "line": 23,
+      "symbol": "PushAuthorizationOption.providesAppNotificationSettings",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Push/PushAuthorizationOption.swift",
+      "line": 23,
+      "symbol": "PushAuthorizationOption.provisional",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/yba/Projects/sdk/numberly-sdk-ios/Sources/Push/PushAuthorizationOption.swift",
+      "line": 23,
+      "symbol": "PushAuthorizationOption.sound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/yba/Projects/sdk/numberly-sdk-ios"
+}
